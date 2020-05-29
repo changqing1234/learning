@@ -1,0 +1,8 @@
+上网找安装教程：
+
+开发环境搭建：1.安装python（最好是3.6版本的，兼容性好） 官网下载地址：https://www.python.org/downloads/
+ 	        2. anaconda, 官方下载地址：https://www.anaconda.com/products/individual
+	        3. pycharm   
+	       4. 安装sklearn库和numpy库。
+
+这几个文件都是基础的算法，后面要学习的是cnn，lstm网络。

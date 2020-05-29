@@ -1,0 +1,14 @@
+如果只是运行numpy_network1.py，不需要另外装其他的深度学习框架。
+如果运行pytorch_network.py， 需要安装深度学习的pytorch环境
+如果要运行keras_network.py, 需要安装深度学习的keras环境
+
+框架的安装过程请上网搜索。下面的地址不一定详细。安装gpu版的特别耗时，需要考虑python， tensorflow，keras, pytorch的版本兼容问题
+，版本匹配上网搜。能一天安装这些框架就很厉害了。
+pytorch安装过程：https://pytorch.org/ （如果电脑有gpu，最好装gpu版的，速度更快。cpu版的也行，速度慢些）
+keras安装过程：https://www.zhihu.com/question/45990362
+
+
+
+
+可以安装keras框架，容易立即。然后要搞懂numpy_network1.py，这个才是真正的神经网络细节实现，主要是反向传播难立即。
+看博客理解。https://blog.csdn.net/ft_sunshine/article/details/90221691
